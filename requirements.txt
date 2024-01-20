@@ -2,6 +2,7 @@
 -e .
 
 # external requirements
+pre-commit
 click
 Sphinx
 coverage
